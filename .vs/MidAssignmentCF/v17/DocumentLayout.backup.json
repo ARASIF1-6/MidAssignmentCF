@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\University lecture class notes (semester 10)\\ADVANCED PROGRAMMING WITH .NET (B)\\Backend\\MidAssignmentCF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76363449-87BB-4F9D-9231-3F0C084A2002}|MidAssignmentCF\\MidAssignmentCF.csproj|f:\\university lecture class notes (semester 10)\\advanced programming with .net (b)\\backend\\midassignmentcf\\midassignmentcf\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76363449-87BB-4F9D-9231-3F0C084A2002}|MidAssignmentCF\\MidAssignmentCF.csproj|solutionrelative:midassignmentcf\\views\\employee\\addemployee.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76363449-87BB-4F9D-9231-3F0C084A2002}|MidAssignmentCF\\MidAssignmentCF.csproj|f:\\university lecture class notes (semester 10)\\advanced programming with .net (b)\\backend\\midassignmentcf\\midassignmentcf\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76363449-87BB-4F9D-9231-3F0C084A2002}|MidAssignmentCF\\MidAssignmentCF.csproj|solutionrelative:midassignmentcf\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76363449-87BB-4F9D-9231-3F0C084A2002}|MidAssignmentCF\\MidAssignmentCF.csproj|f:\\university lecture class notes (semester 10)\\advanced programming with .net (b)\\backend\\midassignmentcf\\midassignmentcf\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76363449-87BB-4F9D-9231-3F0C084A2002}|MidAssignmentCF\\MidAssignmentCF.csproj|solutionrelative:midassignmentcf\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76363449-87BB-4F9D-9231-3F0C084A2002}|MidAssignmentCF\\MidAssignmentCF.csproj|f:\\university lecture class notes (semester 10)\\advanced programming with .net (b)\\backend\\midassignmentcf\\midassignmentcf\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76363449-87BB-4F9D-9231-3F0C084A2002}|MidAssignmentCF\\MidAssignmentCF.csproj|solutionrelative:midassignmentcf\\controllers\\departmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76363449-87BB-4F9D-9231-3F0C084A2002}|MidAssignmentCF\\MidAssignmentCF.csproj|f:\\university lecture class notes (semester 10)\\advanced programming with .net (b)\\backend\\midassignmentcf\\midassignmentcf\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76363449-87BB-4F9D-9231-3F0C084A2002}|MidAssignmentCF\\MidAssignmentCF.csproj|solutionrelative:midassignmentcf\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76363449-87BB-4F9D-9231-3F0C084A2002}|MidAssignmentCF\\MidAssignmentCF.csproj|f:\\university lecture class notes (semester 10)\\advanced programming with .net (b)\\backend\\midassignmentcf\\midassignmentcf\\views\\department\\adddepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76363449-87BB-4F9D-9231-3F0C084A2002}|MidAssignmentCF\\MidAssignmentCF.csproj|solutionrelative:midassignmentcf\\views\\department\\adddepartment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76363449-87BB-4F9D-9231-3F0C084A2002}|MidAssignmentCF\\MidAssignmentCF.csproj|f:\\university lecture class notes (semester 10)\\advanced programming with .net (b)\\backend\\midassignmentcf\\midassignmentcf\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{76363449-87BB-4F9D-9231-3F0C084A2002}|MidAssignmentCF\\MidAssignmentCF.csproj|solutionrelative:midassignmentcf\\views\\department\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76363449-87BB-4F9D-9231-3F0C084A2002}|MidAssignmentCF\\MidAssignmentCF.csproj|f:\\university lecture class notes (semester 10)\\advanced programming with .net (b)\\backend\\midassignmentcf\\midassignmentcf\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76363449-87BB-4F9D-9231-3F0C084A2002}|MidAssignmentCF\\MidAssignmentCF.csproj|solutionrelative:midassignmentcf\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76363449-87BB-4F9D-9231-3F0C084A2002}|MidAssignmentCF\\MidAssignmentCF.csproj|f:\\university lecture class notes (semester 10)\\advanced programming with .net (b)\\backend\\midassignmentcf\\midassignmentcf\\migrations\\202409222049257_createtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76363449-87BB-4F9D-9231-3F0C084A2002}|MidAssignmentCF\\MidAssignmentCF.csproj|solutionrelative:midassignmentcf\\migrations\\202409222049257_createtable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76363449-87BB-4F9D-9231-3F0C084A2002}|MidAssignmentCF\\MidAssignmentCF.csproj|f:\\university lecture class notes (semester 10)\\advanced programming with .net (b)\\backend\\midassignmentcf\\midassignmentcf\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76363449-87BB-4F9D-9231-3F0C084A2002}|MidAssignmentCF\\MidAssignmentCF.csproj|solutionrelative:midassignmentcf\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76363449-87BB-4F9D-9231-3F0C084A2002}|MidAssignmentCF\\MidAssignmentCF.csproj|f:\\university lecture class notes (semester 10)\\advanced programming with .net (b)\\backend\\midassignmentcf\\midassignmentcf\\context\\employeedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76363449-87BB-4F9D-9231-3F0C084A2002}|MidAssignmentCF\\MidAssignmentCF.csproj|solutionrelative:midassignmentcf\\context\\employeedatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76363449-87BB-4F9D-9231-3F0C084A2002}|MidAssignmentCF\\MidAssignmentCF.csproj|f:\\university lecture class notes (semester 10)\\advanced programming with .net (b)\\backend\\midassignmentcf\\midassignmentcf\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76363449-87BB-4F9D-9231-3F0C084A2002}|MidAssignmentCF\\MidAssignmentCF.csproj|solutionrelative:midassignmentcf\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\University lecture class notes (semester 10)\\ADVANCED PROGRAMMING WITH .NET (B)\\Backend\\MidAssignmentCF\\MidAssignmentCF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MidAssignmentCF\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\University lecture class notes (semester 10)\\ADVANCED PROGRAMMING WITH .NET (B)\\Backend\\MidAssignmentCF\\MidAssignmentCF\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MidAssignmentCF\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T21:09:57.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddDepartment.cshtml",
+              "DocumentMoniker": "F:\\University lecture class notes (semester 10)\\ADVANCED PROGRAMMING WITH .NET (B)\\Backend\\MidAssignmentCF\\MidAssignmentCF\\Views\\Department\\AddDepartment.cshtml",
+              "RelativeDocumentMoniker": "MidAssignmentCF\\Views\\Department\\AddDepartment.cshtml",
+              "ToolTip": "F:\\University lecture class notes (semester 10)\\ADVANCED PROGRAMMING WITH .NET (B)\\Backend\\MidAssignmentCF\\MidAssignmentCF\\Views\\Department\\AddDepartment.cshtml",
+              "RelativeToolTip": "MidAssignmentCF\\Views\\Department\\AddDepartment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T21:08:50.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\University lecture class notes (semester 10)\\ADVANCED PROGRAMMING WITH .NET (B)\\Backend\\MidAssignmentCF\\MidAssignmentCF\\Views\\Department\\Index.cshtml",
+              "RelativeDocumentMoniker": "MidAssignmentCF\\Views\\Department\\Index.cshtml",
+              "ToolTip": "F:\\University lecture class notes (semester 10)\\ADVANCED PROGRAMMING WITH .NET (B)\\Backend\\MidAssignmentCF\\MidAssignmentCF\\Views\\Department\\Index.cshtml",
+              "RelativeToolTip": "MidAssignmentCF\\Views\\Department\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T21:07:15.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DepartmentController.cs",
+              "DocumentMoniker": "F:\\University lecture class notes (semester 10)\\ADVANCED PROGRAMMING WITH .NET (B)\\Backend\\MidAssignmentCF\\MidAssignmentCF\\Controllers\\DepartmentController.cs",
+              "RelativeDocumentMoniker": "MidAssignmentCF\\Controllers\\DepartmentController.cs",
+              "ToolTip": "F:\\University lecture class notes (semester 10)\\ADVANCED PROGRAMMING WITH .NET (B)\\Backend\\MidAssignmentCF\\MidAssignmentCF\\Controllers\\DepartmentController.cs",
+              "RelativeToolTip": "MidAssignmentCF\\Controllers\\DepartmentController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T21:04:04.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEmployee.cshtml",
+              "DocumentMoniker": "F:\\University lecture class notes (semester 10)\\ADVANCED PROGRAMMING WITH .NET (B)\\Backend\\MidAssignmentCF\\MidAssignmentCF\\Views\\Employee\\AddEmployee.cshtml",
+              "RelativeDocumentMoniker": "MidAssignmentCF\\Views\\Employee\\AddEmployee.cshtml",
+              "ToolTip": "F:\\University lecture class notes (semester 10)\\ADVANCED PROGRAMMING WITH .NET (B)\\Backend\\MidAssignmentCF\\MidAssignmentCF\\Views\\Employee\\AddEmployee.cshtml",
+              "RelativeToolTip": "MidAssignmentCF\\Views\\Employee\\AddEmployee.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAACCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T20:54:36.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\University lecture class notes (semester 10)\\ADVANCED PROGRAMMING WITH .NET (B)\\Backend\\MidAssignmentCF\\MidAssignmentCF\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "MidAssignmentCF\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "F:\\University lecture class notes (semester 10)\\ADVANCED PROGRAMMING WITH .NET (B)\\Backend\\MidAssignmentCF\\MidAssignmentCF\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "MidAssignmentCF\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-22T20:54:04.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "F:\\University lecture class notes (semester 10)\\ADVANCED PROGRAMMING WITH .NET (B)\\Backend\\MidAssignmentCF\\MidAssignmentCF\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "MidAssignmentCF\\Controllers\\EmployeeController.cs",
+              "ToolTip": "F:\\University lecture class notes (semester 10)\\ADVANCED PROGRAMMING WITH .NET (B)\\Backend\\MidAssignmentCF\\MidAssignmentCF\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "MidAssignmentCF\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T20:52:15.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "202409222049257_CreateTable.cs",
+              "DocumentMoniker": "F:\\University lecture class notes (semester 10)\\ADVANCED PROGRAMMING WITH .NET (B)\\Backend\\MidAssignmentCF\\MidAssignmentCF\\Migrations\\202409222049257_CreateTable.cs",
+              "RelativeDocumentMoniker": "MidAssignmentCF\\Migrations\\202409222049257_CreateTable.cs",
+              "ToolTip": "F:\\University lecture class notes (semester 10)\\ADVANCED PROGRAMMING WITH .NET (B)\\Backend\\MidAssignmentCF\\MidAssignmentCF\\Migrations\\202409222049257_CreateTable.cs",
+              "RelativeToolTip": "MidAssignmentCF\\Migrations\\202409222049257_CreateTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T20:49:37.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "F:\\University lecture class notes (semester 10)\\ADVANCED PROGRAMMING WITH .NET (B)\\Backend\\MidAssignmentCF\\MidAssignmentCF\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "MidAssignmentCF\\Migrations\\Configuration.cs",
+              "ToolTip": "F:\\University lecture class notes (semester 10)\\ADVANCED PROGRAMMING WITH .NET (B)\\Backend\\MidAssignmentCF\\MidAssignmentCF\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "MidAssignmentCF\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T20:48:53.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Department.cs",
+              "DocumentMoniker": "F:\\University lecture class notes (semester 10)\\ADVANCED PROGRAMMING WITH .NET (B)\\Backend\\MidAssignmentCF\\MidAssignmentCF\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "MidAssignmentCF\\Models\\Department.cs",
+              "ToolTip": "F:\\University lecture class notes (semester 10)\\ADVANCED PROGRAMMING WITH .NET (B)\\Backend\\MidAssignmentCF\\MidAssignmentCF\\Models\\Department.cs",
+              "RelativeToolTip": "MidAssignmentCF\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T20:44:20.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "F:\\University lecture class notes (semester 10)\\ADVANCED PROGRAMMING WITH .NET (B)\\Backend\\MidAssignmentCF\\MidAssignmentCF\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "MidAssignmentCF\\Models\\Employee.cs",
+              "ToolTip": "F:\\University lecture class notes (semester 10)\\ADVANCED PROGRAMMING WITH .NET (B)\\Backend\\MidAssignmentCF\\MidAssignmentCF\\Models\\Employee.cs",
+              "RelativeToolTip": "MidAssignmentCF\\Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T20:43:52.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EmployeeDatabase.cs",
+              "DocumentMoniker": "F:\\University lecture class notes (semester 10)\\ADVANCED PROGRAMMING WITH .NET (B)\\Backend\\MidAssignmentCF\\MidAssignmentCF\\Context\\EmployeeDatabase.cs",
+              "RelativeDocumentMoniker": "MidAssignmentCF\\Context\\EmployeeDatabase.cs",
+              "ToolTip": "F:\\University lecture class notes (semester 10)\\ADVANCED PROGRAMMING WITH .NET (B)\\Backend\\MidAssignmentCF\\MidAssignmentCF\\Context\\EmployeeDatabase.cs",
+              "RelativeToolTip": "MidAssignmentCF\\Context\\EmployeeDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-22T20:42:56.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
